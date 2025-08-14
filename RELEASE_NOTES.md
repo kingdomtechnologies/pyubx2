@@ -1,5 +1,11 @@
 # pyubx2 Release Notes
 
+### RELEASE 1.2.46b
+
+ENHANCEMENTS:
+
+1. Added some of the new ubx configs from HPS 1.40
+
 ### RELEASE 1.2.46
 
 ENHANCEMENTS:
